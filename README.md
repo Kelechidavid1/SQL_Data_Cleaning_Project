@@ -7,7 +7,7 @@ The four bssic steps used in the cleaning of this dataset set is as shown below:
 1. Removal of Duplicates
 2. Text Standadization
 3. Blanks and Null
-4. Removal of Redundant rows and columns
+4. Removal of Redundant columns
 
  ### Removal of Duplicates
  The techniques used to achieve this are:
