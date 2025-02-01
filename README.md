@@ -22,7 +22,7 @@ Blank and Null dataset that can be populated were done by comparing to relevant 
 Rows that have both total_laid_off and percentage_laid_off as blank or null values were deleted because they will serve no function in subsequent Exploratory Data Analysis. Also, the Row_Number column that was created in the earlier stages of the data cleaning to remove duplicates was deleted because it is redundant and would not be used for further analysis.  
 
 ##  3. CONCLUSION
-In conclusion, data analytics is a powerful tool for extracting insights and making informed decisions. Data cleaning is an important aspect of data analytics, ensuring accuracy and reliability in analysis. By leveraging the commands and techniques on SQL, we can transform raw data into meaningful insights that drive success.
+In conclusion, SQL is a  powerful tool in data analytics for extracting insights and making informed decisions. Data cleaning is an important aspect of data analytics, ensuring accuracy and reliability in analysis. By leveraging the commands and techniques in SQL, we can transform raw data into meaningful insights that drive success.
 
 
 
