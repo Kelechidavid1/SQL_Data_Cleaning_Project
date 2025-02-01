@@ -10,4 +10,7 @@ The four bssic steps used in the cleaning of this dataset set is as shown below:
 4. Removal of Redundant columns
 
  ### Removal of Duplicates
- The techniques used to achieve this are:
+ A row number was used to match against all the columns in the dataset to find any duplicate after which a Common Table Expression (CTE) was used to comfirm that there was no row number greater than one. Row Number greater than one would signify a duplicate.
+
+ ### Text Standadization  
+ 
